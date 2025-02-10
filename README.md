@@ -1,1 +1,2 @@
 # cars_s7
+Este proyecto utuliza las librerias streamlit para construir una aplicacion en la que el usuario puede elegir que tipo de grafico crear y contruir distintos tipos de grafica, e.g. histrogramas, graifas de dispersión respecto a un dataframe que contiene información de vehiculos
